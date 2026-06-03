@@ -1,0 +1,29 @@
+body{
+  padding: 25px;
+  text-align: center;
+  background: #eaffd1;
+}
+
+.title {
+	color: #5C6AC4;
+}
+
+img {
+  width: 200px;
+}
+
+img:hover{
+  transform: scale(1.5);
+  transform: rotate(90deg);
+  transform: scaleX(4) scaleY(2);
+  
+  box-shadow: 0 0 20px blue;
+  
+}
+
+.coolText {
+  font-family: "Tangerine", cursive;
+}
+
+
+
